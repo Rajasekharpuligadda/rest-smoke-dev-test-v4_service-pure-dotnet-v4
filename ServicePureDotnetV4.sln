@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePureDotnetV4", "ServicePureDotnetV4.csproj", "{D1FCDE69-80B3-4144-9213-EC87489BBEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FCDE69-80B3-4144-9213-EC87489BBEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FCDE69-80B3-4144-9213-EC87489BBEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FCDE69-80B3-4144-9213-EC87489BBEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FCDE69-80B3-4144-9213-EC87489BBEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A449935F-AED4-4A46-8E63-CEF9201E1B81}
+	EndGlobalSection
+EndGlobal
